@@ -22,5 +22,12 @@ class IntentAction : AppCompatActivity() {
             val intent_dial = Intent(ACTION_DIAL, Uri.parse("tel:4451006834"))
             startActivity(intent_dial)
         }
+        btn2viewmap.setOnClickListener {
+            val intent_view = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://www.google.com.mx/maps/@20.1416417,-101.1595057,15.2z")
+            )
+            startActivity(intent_view)
+        }
     }
 }
