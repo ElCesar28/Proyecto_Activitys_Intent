@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto ElCésar_26</string>
+    <string name="user_txt_login">User</string>
+    <string name="password_txt_login">Password</string>
+    <string name="enter_btn_login">Login</string>
+    <string name="btnSingInLogin">SingIn</string>
+    <string name="name_txt_signin">Name</string>
+    <string name="text_btnIntent1">Action dial</string>
+    <string name="text_btnIntent2">Action view map</string>
+</resources>

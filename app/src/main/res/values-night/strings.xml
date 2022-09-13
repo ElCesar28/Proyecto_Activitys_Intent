@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_txt_login">User</string>
+    <string name="password_txt_login">Password</string>
+    <string name="enter_btn_login">Enter</string>
+    <string name="btnSingInLogin">Button</string>
+    <string name="text_btnIntent1">Action dial</string>
+    <string name="text_btnIntent2">Action view map</string>
+</resources>
